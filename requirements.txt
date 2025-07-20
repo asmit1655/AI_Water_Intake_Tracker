@@ -1,0 +1,14 @@
+langchain
+langchain_groq
+langchain_community
+fastapi
+uvicorn
+langchain_core
+sqlalchemy
+llama-index
+streamlit
+python-dotenv
+sqlite-utils
+apscheduler
+loguru
+typer

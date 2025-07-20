@@ -1,0 +1,10 @@
+2025-07-20 16:06:50,934 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 16:06:50,952 - INFO - User: asmit logged 2000ml
+2025-07-20 16:09:25,179 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 16:09:25,204 - INFO - User: asmit logged 2000ml
+2025-07-20 16:15:05,925 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 16:15:05,945 - INFO - User: user_123 logged 2000ml
+2025-07-20 17:14:01,715 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 17:14:01,734 - INFO - User: user123 logged 1000ml
+2025-07-20 17:44:20,520 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 17:44:20,549 - INFO - User: user123 logged 1000ml
